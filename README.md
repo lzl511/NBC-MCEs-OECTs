@@ -1,1 +1,1 @@
-# Bayesian-Inference-Based-on-Muller-C-Elements
+# Device-Muller-C-Elements-Implemented-with-Organic-Electrochemical-Transistors
