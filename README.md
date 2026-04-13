@@ -1,4 +1,4 @@
-# Naive Bayes Classification Using Organic Electrochemical Transistor (OECT)-Based Muller C-Elements (MCEs)
+# Naive Bayes (NB) Classification Using Organic Electrochemical Transistor (OECT)-Based Muller C-Elements (MCEs)
 
 
 ## Acknowledgements
