@@ -1,4 +1,5 @@
-# Organic Electrochemical Transistor (OECT)-Based Muller C-Elements (MCEs) for Naive Bayes Classifier Implementation
+# Naive Bayes Classifier (NBC) Implementation Using Muller C-Elements (MCEs) Based on Organic Electrochemical Transistors (OECTs)
+
 
 
 ## Acknowledgements
