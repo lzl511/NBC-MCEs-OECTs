@@ -1,4 +1,4 @@
-# Naive Bayes (NB) Classification Using Organic Electrochemical Transistor (OECT)-Based Muller C-Elements (MCEs) for Sleep Apnea Detection
+# Naive Bayes (NB) Classification Using Organic Electrochemical Transistor (OECT)-Based Muller C-Elements (MCEs)
 
 
 ## Acknowledgements
