@@ -1,4 +1,4 @@
-# DEVICE--Muller-C-Elements-Based-on-Organic-Electrochemical-Transistors-for-Bayesian-Classification
+# Organic Electrochemical Transistor (OECT)-Based Muller C-Elements (MCEs) for Naive Bayes Classifier Implementation
 
 
 ## Acknowledgements
